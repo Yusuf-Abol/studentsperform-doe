@@ -50,7 +50,7 @@ gender or specialization (humanities to science) had no signficant influence on 
 
 * The data has uneven distribution of students in Science (=81) and Humanities(=59)
 
-  ## Acknowledgments/References
+## Acknowledgments/References
 [1]  https://www.experimentaldesignhub.com/ Example of a Full Factorial Design in Python by Marcel Butschle
 
 [2] Douglas C. Montgomery (2012) Design and Analysis of Experiments, Arizona State University
