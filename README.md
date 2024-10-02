@@ -50,6 +50,14 @@ gender or specialization (humanities to science) had no signficant influence on 
 
 * The data has uneven distribution of students in Science (=81) and Humanities(=59)
 
+  ## Acknowledgments/References
+[1]  https://www.experimentaldesignhub.com/ Example of a Full Factorial Design in Python by Marcel Butschle
+
+[2] Douglas C. Montgomery (2012) Design and Analysis of Experiments, Arizona State University
+
+[3] Glewe, P. (2002) Schools and skills in developing countries: Education policies and Socio-Economical Outcomes. Journal of Economics Literature
+
+[4] Farooq, M.S., Shafiq, M. and Berhanu, G (2011). Factors Affecting Students' Quality of Academic Performance; A Case Study of Secondary School
 
 
 
