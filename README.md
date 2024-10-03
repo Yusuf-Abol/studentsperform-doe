@@ -27,6 +27,9 @@ Using a 2^3 full factorial design , this project aims to investigate the effects
 ## Project Description
 The WAEC results of 140  students (70F, 70M) from 2 schools were used for this project. Performance was gauged by coding the grades in Maths + English language using nine points item scale; A1 to F9 (A1=8, B2=7, B3=6, C4=5, C5=4, C6=3, D7=2, E8=1, F9=0). The data was analyzed using main/interaction effect plots, full factorial model with 3 factors, ANOVA table and Hypothesis testing.
 
+## Dataset
+This study utilized a confidential dataset provided by two secondary schools in Nigeria. The dataset contained the West African Examinations Council results of secondary school students, collected over two academic years. The schools wished to remain anonymous to maintain confidentiality.
+
 ## Needs of this project
 * data scientist/analyst
 * experimenter looking for information with low cost
@@ -50,7 +53,7 @@ gender or specialization (humanities to science) had no signficant influence on 
 
 * The data has uneven distribution of students in Science (=81) and Humanities(=59)
 
-## Acknowledgments/References
+## References
 [1]  https://www.experimentaldesignhub.com/ Example of a Full Factorial Design in Python by Marcel Butschle
 
 [2] Douglas C. Montgomery (2012) Design and Analysis of Experiments, Arizona State University
